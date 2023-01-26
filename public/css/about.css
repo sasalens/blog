@@ -1,0 +1,38 @@
+html {
+	position: relative;
+}
+
+.jumbotron {
+	margin-top: -30px;
+	height: 500px;
+	background-image: url(https://source.unsplash.com/1400x500/?computer);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -100px;
+	color: #eaeaea;
+	overflow: hidden;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid #eaeaea;
+    margin-top: 8%;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron h1, .jumbotron p {
+	text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+section {
+	min-height: 600px;
+}
+
+
+
+
