@@ -12,7 +12,7 @@
     @endif
 
     <div class="table-responsive col-lg-8">
-      <a href="/dashboard/posts/create" class="btn btn-primary btn-sm mb-3">Create new post</a>
+      <a href="/dashboard/posts/create" class="btn btn-primary btn-sm mb-3"><span data-feather="plus"></span> Create new post</a>
         <table class="table table-striped table-sm">
           <thead>
             <tr>
